@@ -572,3 +572,17 @@ public class CustomMusicianRepositoryImpl implements CustomMusicianRepository {
 급한대로 처리하고 차후 이것을 fork떠서 제안을 해 볼 생각이다....
 
 
+# 그냥...
+라이브러리 전격 교체      
+
+```
+implementation 'dev.miku:r2dbc-mysql:0.8.2.RELEASE'
+```
+
+스프링 커뮤니티에서 이 넘은 관리 안된지 오래되었다고 한다.      
+
+```
+implementation 'com.github.jasync-sql:jasync-r2dbc-mysql:2.0.6'
+```
+
+![속이 편안](https://github.com/basquiat78/r2dbc-proxy-and-mysql/blob/main/pyunan.jpeg)
