@@ -573,6 +573,11 @@ public class CustomMusicianRepositoryImpl implements CustomMusicianRepository {
 
 
 # 그냥...
+
+라이브러리 교체가 거시기하다면 위 방법대로 우선 사용하는 게 최우선이것 같다.     
+
+하지만 교체가 가능하다면?
+
 라이브러리 전격 교체      
 
 ```
